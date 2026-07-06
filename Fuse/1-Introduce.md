@@ -95,5 +95,9 @@ FUSE 的出现为文件系统的开发带来了革命性的变化，通过将文
 
 - [一个基于Fuse实现的简单文件系统](https://zhuanlan.zhihu.com/p/621112625)
 
+- [FUSE 文件系统和 libfuse 介绍](https://cloud.tencent.com/developer/article/2491023)
+
+- [Linux FUSE（用户态文件系统）的使用](https://www.lijiaocn.com/%E6%8A%80%E5%B7%A7/2019/01/21/linux-fuse-filesystem-in-userspace-usage.html)
+
 
 
