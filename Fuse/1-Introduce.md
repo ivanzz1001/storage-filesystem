@@ -92,3 +92,8 @@ FUSE 的出现为文件系统的开发带来了革命性的变化，通过将文
 - [Libfuse GitHub](https://github.com/libfuse/libfuse)
 
 - [FUSE - 从内核到用户态文件系统的设计之路](https://juicefs.com/zh-cn/blog/engineering/fuse-file-system-design)
+
+- [一个基于Fuse实现的简单文件系统](https://zhuanlan.zhihu.com/p/621112625)
+
+
+
